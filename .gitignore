@@ -1,0 +1,5 @@
+.venv
+coco.names
+haarcascade_frontalface_default.xml
+yolov3.cfg
+yolov3.weights
